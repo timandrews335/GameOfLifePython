@@ -233,6 +233,7 @@ root.bind('<Return>', start)
 
 ####MAIN LOGIC
 _GRID = [_DEAD]*int(_ROWS.get())*int(_COLUMNS.get())
+_RESET = True
 generateStartingGrid(_GRID)
 
 
