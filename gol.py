@@ -1,6 +1,6 @@
 ######################################################################################
 #                                                                                    #
-# TIM ANDREWS / 2017-02-26                                                           #   
+# TIM ANDREWS / 2017-02-26        (test from new pc                                  #   
 # An implementation of Conway's Game of Life.                                        #   
 # For rules of the game, see https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life   #
 # This application provides a tkinter user interface to simulate cellular automation.#
